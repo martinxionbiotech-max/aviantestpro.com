@@ -1,5 +1,5 @@
 {
-  "build_command": "pip install -r requirements.txt && mkdocs build",
-  "build_output_dir": "site",
+  "build_command": "cd avian-docs && pip install -r requirements.txt && mkdocs build && cp _redirects site/",
+  "build_output_dir": "avian-docs/site",
   "root_dir": "/"
 }

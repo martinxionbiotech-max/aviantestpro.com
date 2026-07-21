@@ -1,0 +1,7 @@
+<!-- _redirects for Cloudflare Pages root handling will be at site/_redirects -->
+{% if page.url == '/' %}
+  <!-- inject nothing extra -->
+{% endif %}
+{% if config.extra.redirects_enabled %}
+  <!-- _redirects file managed separately -->
+{% endif %}
