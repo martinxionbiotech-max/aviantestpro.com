@@ -1,0 +1,151 @@
+site_name: SENO Avian Genetic Test — Technical Documentation Center
+site_description: >
+  Official SENO Testing Center technical documentation knowledge base providing
+  avian DNA sexing protocols, PCR disease detection panels for PBFD/APV/AIV,
+  racing pigeon genetic testing, laboratory SOPs, sample collection guides,
+  and regulatory compliance references for bird breeders and veterinary professionals.
+site_author: Zhangjiakou SENO Testing Center Co., Ltd.
+site_url: https://docs.aviantestpro.com
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides/
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+extra:
+  generator: false
+  social: []
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 2-4
+
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)'
+  - glightbox
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+        remove_empty_space: true
+
+nav:
+  - Home: index.md
+  - About the Laboratory:
+    - about/index.md
+    - about/facility-overview.md
+    - about/team-and-expertise.md
+    - about/certifications.md
+    - about/intellectual-property.md
+  - DNA Gender Testing:
+    - gender-testing/index.md
+    - gender-testing/pcr-sexing-method.md
+    - gender-testing/parrot-dna-sexing.md
+    - gender-testing/pigeon-dna-sexing.md
+    - gender-testing/species-compatibility.md
+  - Avian Disease Testing:
+    - disease-testing/index.md
+    - disease-testing/pbfd.md
+    - disease-testing/avian-polyomavirus.md
+    - disease-testing/pigeon-disease-panel.md
+    - disease-testing/avian-influenza-surveillance.md
+  - Racing Pigeon Genetics:
+    - pigeon-genetics/index.md
+    - pigeon-genetics/performance-gene-testing.md
+    - pigeon-genetics/performance-gene-validation.md
+    - pigeon-genetics/dna-fingerprinting.md
+    - pigeon-genetics/parentage-verification.md
+  - Sample Collection & Shipping:
+    - sample-guide/index.md
+    - sample-guide/feather-collection.md
+    - sample-guide/blood-sample-protocol.md
+    - sample-guide/swab-collection.md
+    - sample-guide/international-shipping.md
+    - sample-guide/sample-storage-and-stability.md
+    - sample-guide/quick-reference-card.md
+  - Testing Methods & Technology:
+    - testing-methods/index.md
+    - testing-methods/pcr-technology.md
+    - testing-methods/qPCR-fluorescent.md
+    - testing-methods/capillary-electrophoresis.md
+    - testing-methods/reagent-development.md
+  - Quality Control & SOPs:
+    - quality-control/index.md
+    - quality-control/laboratory-qc-protocols.md
+    - quality-control/dna-extraction-sop.md
+    - quality-control/chd-pcr-protocol.md
+    - quality-control/pbfd-qpcr-validation.md
+    - quality-control/pcr-troubleshooting.md
+    - quality-control/lab-workflow.md
+    - quality-control/proficiency-testing.md
+    - quality-control/accuracy-validation.md
+  - Regulatory & Compliance:
+    - regulatory/index.md
+    - regulatory/iso-9001.md
+    - regulatory/iso-13485.md
+    - regulatory/international-shipping-regulations.md
+  - Species Guides:
+    - species-guides/index.md
+    - species-guides/psittacines-parrots.md
+    - species-guides/columbiformes-pigeons.md
+    - species-guides/passerines-canaries-finches.md
+  - FAQ & Business:
+    - faq/index.md
+    - Comprehensive FAQ: faq/FAQ.md
+    - faq/general-testing-faq.md
+    - faq/sample-faq.md
+    - faq/shipping-faq.md
+    - faq/b2b-procurement-faq.md
+  - Case Studies:
+    - case-studies/index.md
+    - case-studies/application-records.md
+  - Glossary: glossary/index.md
+  - Document Index: INDEX.md
+
+copyright: >
+  © 2026 Zhangjiakou SENO Testing Center Co., Ltd.
+  — <a href="https://aviantestpro.com">aviantestpro.com</a>
+  | All testing services for research and diagnostic purposes.

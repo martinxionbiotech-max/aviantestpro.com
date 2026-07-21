@@ -1,0 +1,123 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.canonical_url }}" />
+  <meta property="og:url" content="{{ page.canonical_url }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="SENO Avian Genetic Test — Technical Documentation Center" />
+  <meta property="og:title" content="{{ page.title | default('SENO Avian Genetic Testing') }}" />
+  <meta property="og:description" content="{{ page.meta.description if page.meta and page.meta.description else 'Technical documentation for SENO International Avian Genetic Test — PCR-based bird DNA sexing, disease detection, and racing pigeon genetics.' }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- JSON-LD: Organization (Main Website Entity) + WebSite + TechArticle -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://aviantestpro.com/#organization",
+    "name": "Zhangjiakou SENO Testing Center Co., Ltd.",
+    "alternateName": "SENO International Avian Genetic Test",
+    "url": "https://aviantestpro.com",
+    "description": "Professional avian genetic testing laboratory specializing in bird DNA sexing, avian disease PCR detection, and racing pigeon genetic analysis.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://aviantestpro.com/logo.png"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Zhangjiakou",
+      "addressRegion": "Hebei",
+      "addressCountry": "China"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "lab@aviantestpro.com",
+      "telephone": "+86-13323237275",
+      "contactType": "laboratory services",
+      "availableLanguage": ["English", "Chinese"]
+    },
+    "sameAs": [
+      "https://aviantestpro.com",
+      "https://docs.aviantestpro.com"
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://aviantestpro.com/#website",
+    "url": "https://aviantestpro.com",
+    "name": "SENO International Avian Genetic Test",
+    "description": "Official website — avian DNA sexing, disease testing, and racing pigeon genetics services.",
+    "publisher": {
+      "@id": "https://aviantestpro.com/#organization"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "@id": "{{ page.canonical_url }}#article",
+    "headline": "{{ page.title | default('SENO Avian Genetic Testing Technical Documentation') }}",
+    "description": "{{ page.meta.description if page.meta and page.meta.description else 'Avian DNA testing technical documentation' }}",
+    "url": "{{ page.canonical_url }}",
+    "dateModified": "2026-08-01",
+    "datePublished": "2026-01-15",
+    "author": {
+      "@type": "Organization",
+      "@id": "https://aviantestpro.com/#organization"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "@id": "https://aviantestpro.com/#organization"
+    },
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.canonical_url }}"
+    },
+    "about": {
+      "@type": "DefinedTerm",
+      "name": "Avian Genetic Testing",
+      "description": "Molecular diagnostics for bird DNA sexing (CHD gene), pathogen detection (PBFD, APV, AIV), and racing pigeon genetics (performance markers, DNA fingerprinting)"
+    }
+  }
+  </script>
+
+  <!-- FAQ Schema injection when page has FAQPage schema_type -->
+  {% if page.meta and page.meta.schema_type == "FAQPage" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "@id": "{{ page.canonical_url }}#faq",
+    "mainEntity": {{ page.meta.faq_json | safe }}
+  }
+  </script>
+  {% endif %}
+{% endblock %}
+
+{% block footer %}
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        &copy; 2026 <a href="https://aviantestpro.com">Zhangjiakou SENO Testing Center Co., Ltd.</a>
+        — Official Technical Documentation Center
+      </div>
+      <div class="md-footer-links">
+        <a href="https://aviantestpro.com">Main Website: aviantestpro.com</a>
+        &nbsp;|&nbsp;
+        <a href="mailto:lab@aviantestpro.com">Email: lab@aviantestpro.com</a>
+        &nbsp;|&nbsp;
+        Tel: +86 13323237275
+      </div>
+    </div>
+  </div>
+</footer>
+{% endblock %}

@@ -1,0 +1,11 @@
+site/
+*.pyc
+__pycache__/
+.venv/
+*.egg-info/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
