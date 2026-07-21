@@ -139,10 +139,10 @@ canonical: https://aviantestpro.com/knowledge/glossary/index
 
 ## Cross-References
 
-- [CHD PCR Protocol](/quality-control/chd-pcr-protocol/) — Sex determination methodology
-- [Accuracy Validation](/quality-control/accuracy-validation/) — Validation terminology in practice
-- [Performance Gene Testing](/pigeon-genetics/performance-gene-testing/) — Genetics of racing pigeon traits
-- [Pigeon Disease Panel](/disease-testing/pigeon-disease-panel/) — Pathogen abbreviations in context
+- [CHD PCR Protocol](../quality-control/chd-pcr-protocol.md) — Sex determination methodology
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — Validation terminology in practice
+- [Performance Gene Testing](../pigeon-genetics/performance-gene-testing.md) — Genetics of racing pigeon traits
+- [Pigeon Disease Panel](../disease-testing/pigeon-disease-panel.md) — Pathogen abbreviations in context
 
 ---
 

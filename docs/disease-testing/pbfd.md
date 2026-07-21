@@ -149,11 +149,11 @@ PBFD presents in acute, chronic, and peracute forms depending on the age and imm
 
 ## Cross-References
 
-- [Pigeon Disease Panel](/disease-testing/pigeon-disease-panel/) — Multi-pathogen screening for differentials
-- [Accuracy Validation](/quality-control/accuracy-validation/) — BFDV assay validation data
-- [DNA Extraction SOP](/quality-control/dna-extraction-sop/) — Feather sample preparation
-- [International Shipping Guide](/sample-guide/international-shipping/) — Submitting samples from abroad
-- [Glossary](/glossary/) — Key terms and abbreviations
+- [Pigeon Disease Panel](../disease-testing/pigeon-disease-panel.md) — Multi-pathogen screening for differentials
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — BFDV assay validation data
+- [DNA Extraction SOP](../quality-control/dna-extraction-sop.md) — Feather sample preparation
+- [International Shipping Guide](../sample-guide/international-shipping.md) — Submitting samples from abroad
+- [Glossary](../glossary/index.md) — Key terms and abbreviations
 
 ---
 

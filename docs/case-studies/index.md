@@ -91,11 +91,11 @@ SENO works with research institutions, breeding associations, and veterinary par
 ## Related Documents
 
 - [Application Records](application-records/) — Detailed case study data and findings
-- [DNA Sexing Method](/gender-testing/pcr-sexing-method/) — Technical basis for CHD-based sexing
-- [PCR Technology](/testing-methods/pcr-technology/) — PCR methodology overview
-- [qPCR Fluorescent Detection](/testing-methods/qPCR-fluorescent/) — Real-time PCR technology
-- [Pigeon DNA Fingerprinting](/pigeon-genetics/dna-fingerprinting/) — STR panel methodology
-- [Glossary](/glossary/) — Technical terms and definitions
+- [DNA Sexing Method](../gender-testing/pcr-sexing-method.md) — Technical basis for CHD-based sexing
+- [PCR Technology](../testing-methods/pcr-technology.md) — PCR methodology overview
+- [qPCR Fluorescent Detection](../testing-methods/qPCR-fluorescent.md) — Real-time PCR technology
+- [Pigeon DNA Fingerprinting](../pigeon-genetics/dna-fingerprinting.md) — STR panel methodology
+- [Glossary](../glossary/index.md) — Technical terms and definitions
 
 ## Case Study Detail: PBFD Outbreak Management
 

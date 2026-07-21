@@ -64,15 +64,15 @@ Welcome to the SENO Avian Genetic Test FAQ center. This section provides compreh
 
 - [Shipping documentation requirements](shipping-faq.md#what-documentation-do-i-need-to-provide)
 - [CITES compliance guide](shipping-faq.md#do-you-accept-international-samples)
-- [Customs clearance support](/regulatory/international-shipping-regulations/#seno-customs-support)
-- [Country-specific shipping times](/regulatory/international-shipping-regulations/#country-specific-considerations)
+- [Customs clearance support](../regulatory/international-shipping-regulations/#seno-customs-support)
+- [Country-specific shipping times](../regulatory/international-shipping-regulations/#country-specific-considerations)
 
 ### Business Partners
 
 - [Bulk testing discounts](general-testing-faq.md#do-you-offer-bulk-testing-discounts)
 - [Distributor partnerships](general-testing-faq.md#do-you-offer-distributor-partnerships)
-- [Pricing and MOQ](/faq/b2b-procurement-faq/)
-- [Payment terms](/faq/b2b-procurement-faq/)
+- [Pricing and MOQ](../faq/b2b-procurement-faq.md)
+- [Payment terms](../faq/b2b-procurement-faq.md)
 
 ## How to Get Further Help
 
@@ -84,15 +84,15 @@ If your question is not answered in these pages, please contact SENO directly:
 
 ## Related Documents
 
-- [Regulatory Overview](/regulatory/) — Certification and compliance framework
-- [Quality Control](/quality-control/) — QC protocols, proficiency testing, and validation data
-- [Sample Guide](/sample-guide/) — Detailed collection and shipping protocols
-- [Case Studies](/case-studies/) — Real-world application examples
-- [Glossary](/glossary/) — Technical terms and definitions
+- [Regulatory Overview](../regulatory/index.md) — Certification and compliance framework
+- [Quality Control](../quality-control/index.md) — QC protocols, proficiency testing, and validation data
+- [Sample Guide](../sample-guide/index.md) — Detailed collection and shipping protocols
+- [Case Studies](../case-studies/index.md) — Real-world application examples
+- [Glossary](../glossary/index.md) — Technical terms and definitions
 
 ## Pricing and Payment Questions
 
-For pricing inquiries, bulk discount structures, and payment terms, please refer to the [B2B Procurement FAQ](/faq/b2b-procurement-faq/). Key points include:
+For pricing inquiries, bulk discount structures, and payment terms, please refer to the [B2B Procurement FAQ](../faq/b2b-procurement-faq.md). Key points include:
 
 | Topic | Summary |
 |:------|:--------|

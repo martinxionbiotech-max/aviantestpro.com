@@ -169,10 +169,10 @@ Conserved primers (P2/P8) flank an intron within the CHD (Chromodomain Helicase 
 
 ## Cross-References
 
-- [DNA Extraction SOP](/quality-control/dna-extraction-sop/) — Pre-PCR sample processing
-- [PCR Troubleshooting](/quality-control/pcr-troubleshooting/) — Amplification failure resolution
-- [Accuracy Validation](/quality-control/accuracy-validation/) — Assay validation data
-- [Glossary](/glossary/) — Key terms (CHD, ZW, amplicon, etc.)
+- [DNA Extraction SOP](../quality-control/dna-extraction-sop.md) — Pre-PCR sample processing
+- [PCR Troubleshooting](../quality-control/pcr-troubleshooting.md) — Amplification failure resolution
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — Assay validation data
+- [Glossary](../glossary/index.md) — Key terms (CHD, ZW, amplicon, etc.)
 
 ---
 

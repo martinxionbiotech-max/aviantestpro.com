@@ -218,10 +218,10 @@ This guide addresses the most frequently encountered issues in avian molecular d
 
 ## Cross-References
 
-- [DNA Extraction SOP](/quality-control/dna-extraction-sop/) — Pre-PCR sample processing protocol
-- [CHD PCR Protocol](/quality-control/chd-pcr-protocol/) — Standard PCR conditions for avian sexing
-- [Accuracy Validation](/quality-control/accuracy-validation/) — Assay validation parameters
-- [Pigeon Disease Panel](/disease-testing/pigeon-disease-panel/) — Multiplex PCR target information
+- [DNA Extraction SOP](../quality-control/dna-extraction-sop.md) — Pre-PCR sample processing protocol
+- [CHD PCR Protocol](../quality-control/chd-pcr-protocol.md) — Standard PCR conditions for avian sexing
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — Assay validation parameters
+- [Pigeon Disease Panel](../disease-testing/pigeon-disease-panel.md) — Multiplex PCR target information
 
 ---
 

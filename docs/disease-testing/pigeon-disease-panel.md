@@ -155,11 +155,11 @@ Each reaction includes:
 
 ## Cross-References
 
-- [PBFD / BFDV Testing](/disease-testing/pbfd/) — Individual BFDV qPCR assay
-- [Performance Gene Testing](/pigeon-genetics/performance-gene-testing/) — Genetic screening for racing potential
-- [DNA Extraction SOP](/quality-control/dna-extraction-sop/) — Sample preparation methodology
-- [PCR Troubleshooting](/quality-control/pcr-troubleshooting/) — Resolving amplification issues
-- [International Shipping Guide](/sample-guide/international-shipping/) — Submitting samples globally
+- [PBFD / BFDV Testing](../disease-testing/pbfd.md) — Individual BFDV qPCR assay
+- [Performance Gene Testing](../pigeon-genetics/performance-gene-testing.md) — Genetic screening for racing potential
+- [DNA Extraction SOP](../quality-control/dna-extraction-sop.md) — Sample preparation methodology
+- [PCR Troubleshooting](../quality-control/pcr-troubleshooting.md) — Resolving amplification issues
+- [International Shipping Guide](../sample-guide/international-shipping.md) — Submitting samples globally
 
 ---
 

@@ -154,10 +154,10 @@ Feather follicle cells are lysed using proteinase K digestion in a chaotropic bu
 
 ## Cross-References
 
-- [CHD PCR Protocol](/quality-control/chd-pcr-protocol/) — PCR amplification after extraction
-- [PCR Troubleshooting](/quality-control/pcr-troubleshooting/) — Resolving extraction-related PCR issues
-- [Accuracy Validation](/quality-control/accuracy-validation/) — Downstream quality metrics
-- [International Shipping Guide](/sample-guide/international-shipping/) — Sample collection and shipping
+- [CHD PCR Protocol](../quality-control/chd-pcr-protocol.md) — PCR amplification after extraction
+- [PCR Troubleshooting](../quality-control/pcr-troubleshooting.md) — Resolving extraction-related PCR issues
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — Downstream quality metrics
+- [International Shipping Guide](../sample-guide/international-shipping.md) — Sample collection and shipping
 
 ---
 

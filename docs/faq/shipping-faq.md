@@ -192,9 +192,9 @@ No. International samples must be shipped via DHL, FedEx, or UPS (tracked expres
 
 ## Related Documents
 
-- [International Shipping Regulations](/regulatory/international-shipping-regulations/) — Full regulatory compliance guide
-- [Sample FAQ](/faq/sample-faq/) — Accepted sample types and collection guidance
-- [General Testing FAQ](/faq/general-testing-faq/) — Testing methods, accuracy, partnerships
-- [Feather Collection Guide](/sample-guide/feather-collection/) — Proper feather collection protocol
-- [Sample Storage Guide](/sample-guide/sample-storage-and-stability/) — Pre-shipping storage conditions
-- [Quick Reference Card](/sample-guide/quick-reference-card/) — At-a-glance guide for sample preparation
+- [International Shipping Regulations](../regulatory/international-shipping-regulations.md) — Full regulatory compliance guide
+- [Sample FAQ](../faq/sample-faq.md) — Accepted sample types and collection guidance
+- [General Testing FAQ](../faq/general-testing-faq.md) — Testing methods, accuracy, partnerships
+- [Feather Collection Guide](../sample-guide/feather-collection.md) — Proper feather collection protocol
+- [Sample Storage Guide](../sample-guide/sample-storage-and-stability.md) — Pre-shipping storage conditions
+- [Quick Reference Card](../sample-guide/quick-reference-card.md) — At-a-glance guide for sample preparation

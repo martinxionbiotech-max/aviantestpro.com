@@ -10,7 +10,7 @@ canonical: https://aviantestpro.com/knowledge/testing-methods/index
 # Testing Methods & Technology
 
 
-SENO employs a comprehensive suite of molecular biology techniques optimized for avian sample types. Our self-developed reagents are designed for the specific challenges of feather and swab samples, including melanin inhibition resistance and low-template (low-copy number) amplification. All methods are validated following CLSI EP guidelines and operate under our [ISO 9001:2015](/regulatory/iso-9001/) and [ISO 13485:2016](/regulatory/iso-13485/) certified quality management systems.
+SENO employs a comprehensive suite of molecular biology techniques optimized for avian sample types. Our self-developed reagents are designed for the specific challenges of feather and swab samples, including melanin inhibition resistance and low-template (low-copy number) amplification. All methods are validated following CLSI EP guidelines and operate under our [ISO 9001:2015](../regulatory/iso-9001.md) and [ISO 13485:2016](../regulatory/iso-13485.md) certified quality management systems.
 
 ---
 
@@ -72,7 +72,7 @@ Every testing method at SENO undergoes a standardized validation process before 
 | EP15 — User Verification | Method verification in SENO's lab | Pass/fail against manufacturer claims |
 | EP17 — Detection Limits | Limit of Blank (LoB), Limit of Detection (LoD), Limit of Quantification (LoQ) | LoD ≤ 10 copies/reaction (qPCR) |
 
-For detailed validation data, see [Accuracy Validation](/quality-control/accuracy-validation.md) and [PBFD qPCR Validation](/quality-control/pbfd-qpcr-validation.md).
+For detailed validation data, see [Accuracy Validation](../quality-control/accuracy-validation.md) and [PBFD qPCR Validation](../quality-control/pbfd-qpcr-validation.md).
 
 ---
 
@@ -94,7 +94,7 @@ Our methods are validated for a broad range of sample types commonly submitted f
 
 ## Quality Control Integration
 
-All testing methods are governed by SENO's multi-tier quality control framework, which is documented in detail in the [Quality Control & SOPs](/quality-control/) section. Key QC elements that apply across all methods include:
+All testing methods are governed by SENO's multi-tier quality control framework, which is documented in detail in the [Quality Control & SOPs](../quality-control/index.md) section. Key QC elements that apply across all methods include:
 
 | QC Element | Frequency | Method Applicability |
 |:-----------|:----------|:--------------------:|
@@ -129,8 +129,8 @@ New testing methods are developed through SENO's structured R&D pipeline, from c
 - [qPCR / Fluorescent PCR →](qPCR-fluorescent.md) — Real-time PCR detection chemistry
 - [Capillary Electrophoresis →](capillary-electrophoresis.md) — Fragment analysis and DNA fingerprinting
 - [Reagent Development →](reagent-development.md) — Self-developed reagent design and manufacturing
-- [Laboratory Workflow](/quality-control/lab-workflow.md) — End-to-end sample processing pipeline
-- [Quality Control & SOPs](/quality-control/) — QC framework governing all testing methods
+- [Laboratory Workflow](../quality-control/lab-workflow.md) — End-to-end sample processing pipeline
+- [Quality Control & SOPs](../quality-control/index.md) — QC framework governing all testing methods
 
 ---
 
@@ -149,8 +149,8 @@ A: Capillary electrophoresis enables base-pair resolution fragment sizing, which
 A: Yes. SENO designs and manufactures proprietary PCR master mixes, qPCR probe sets, DNA extraction kits, primer panels, and stabilization buffers. These reagents are specifically optimized for avian sample types and are produced in our ISO 13485-certified facility.
 
 **Q: Are all methods validated?**
-A: Yes. Every testing method undergoes full CLSI EP-compliant validation before deployment. Validation data — including sensitivity, specificity, precision, and accuracy — is documented and maintained per method. See [Accuracy Validation](/quality-control/accuracy-validation.md) for details.
+A: Yes. Every testing method undergoes full CLSI EP-compliant validation before deployment. Validation data — including sensitivity, specificity, precision, and accuracy — is documented and maintained per method. See [Accuracy Validation](../quality-control/accuracy-validation.md) for details.
 
 ---
 
-*This page provides an overview of SENO's testing methods portfolio. For detailed protocols and SOPs, refer to the individual method pages and the [Quality Control section](/quality-control/). For inquiries about method validation data, contact quality@senobio.com.*
+*This page provides an overview of SENO's testing methods portfolio. For detailed protocols and SOPs, refer to the individual method pages and the [Quality Control section](../quality-control/index.md). For inquiries about method validation data, contact quality@senobio.com.*

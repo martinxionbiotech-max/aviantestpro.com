@@ -61,7 +61,7 @@ SENO's quality system operates on three levels:
 
 
 
-SENO operates a **multi-tier quality control framework** that governs every stage of the avian genetic testing workflow — from sample reception through DNA extraction, PCR amplification, result interpretation, and final report issuance. This framework is aligned with our [ISO 9001:2015](/regulatory/iso-9001/) and [ISO 13485:2016](/regulatory/iso-13485/) certified quality management systems and follows CLSI EP guidelines for assay validation.
+SENO operates a **multi-tier quality control framework** that governs every stage of the avian genetic testing workflow — from sample reception through DNA extraction, PCR amplification, result interpretation, and final report issuance. This framework is aligned with our [ISO 9001:2015](../regulatory/iso-9001.md) and [ISO 13485:2016](../regulatory/iso-13485.md) certified quality management systems and follows CLSI EP guidelines for assay validation.
 
 ---
 
@@ -98,8 +98,8 @@ All testing methods must pass a standardized validation process before clinical 
 |:----------|:--------------------|:-----------|:----------|
 | DNA Sexing (CHD PCR) | Known-sex birds (50+ species) | ≥ 99% concordance | [Accuracy Validation](accuracy-validation.md) |
 | Disease qPCR (PBFD, APV, AIV) | Clinical samples × sequencing confirmation | ROC-AUC ≥ 0.95 | [PBFD qPCR Validation](pbfd-qpcr-validation.md) |
-| DNA Fingerprinting | Population allele frequency | DP > 0.9999 | [Application Records](/case-studies/application-records.md) |
-| Performance Genes | Population association study (2,500 pigeons) | Significant p < 0.01 | [Application Records](/case-studies/application-records.md) |
+| DNA Fingerprinting | Population allele frequency | DP > 0.9999 | [Application Records](../case-studies/application-records.md) |
+| Performance Genes | Population association study (2,500 pigeons) | Significant p < 0.01 | [Application Records](../case-studies/application-records.md) |
 
 ---
 

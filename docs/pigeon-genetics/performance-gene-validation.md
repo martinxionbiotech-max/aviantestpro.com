@@ -154,10 +154,10 @@ The performance gene panel was validated through a multi-stage process:
 
 ## Cross-References
 
-- [Performance Gene Testing Overview](/pigeon-genetics/performance-gene-testing/) — Clinical interpretation and breeding recommendations
-- [Accuracy Validation](/quality-control/accuracy-validation/) — Laboratory validation framework
-- [Glossary](/glossary/) — Key genetics and genomics terminology
-- [DNA Extraction SOP](/quality-control/dna-extraction-sop/) — Sample processing for genotyping
+- [Performance Gene Testing Overview](../pigeon-genetics/performance-gene-testing.md) — Clinical interpretation and breeding recommendations
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — Laboratory validation framework
+- [Glossary](../glossary/index.md) — Key genetics and genomics terminology
+- [DNA Extraction SOP](../quality-control/dna-extraction-sop.md) — Sample processing for genotyping
 
 ---
 

@@ -197,10 +197,10 @@ The Convention on International Trade in Endangered Species (CITES) regulates tr
 
 ## Cross-References
 
-- [DNA Extraction SOP](/quality-control/dna-extraction-sop/) — What happens to your sample after arrival
-- [Pigeon Disease Panel](/disease-testing/pigeon-disease-panel/) — Sample collection requirements by test
-- [PBFD Testing](/disease-testing/pbfd/) — Pathogen detection sample specifics
-- [Contact Us](/contact/) — Shipping address and lab reception details
+- [DNA Extraction SOP](../quality-control/dna-extraction-sop.md) — What happens to your sample after arrival
+- [Pigeon Disease Panel](../disease-testing/pigeon-disease-panel.md) — Sample collection requirements by test
+- [PBFD Testing](../disease-testing/pbfd.md) — Pathogen detection sample specifics
+- [Contact Us](../contact) — Shipping address and lab reception details
 
 ---
 

@@ -174,10 +174,10 @@ Both instruments support multi-color detection (6-dye capability), automated pol
 - [PCR Technology →](pcr-technology.md) — PCR amplification step before CE analysis
 - [qPCR / Fluorescent PCR →](qPCR-fluorescent.md) — Alternative fluorescent detection method
 - [Reagent Development →](reagent-development.md) — Fluorescent primer design and production
-- [DNA Fingerprinting](/pigeon-genetics/dna-fingerprinting.md) — Microsatellite genotyping applications
-- [Parentage Verification](/pigeon-genetics/parentage-verification.md) — CE-based parentage analysis
-- [Laboratory Workflow](/quality-control/lab-workflow.md) — End-to-end sample processing pipeline
-- [Accuracy Validation](/quality-control/accuracy-validation.md) — CE method performance data
+- [DNA Fingerprinting](../pigeon-genetics/dna-fingerprinting.md) — Microsatellite genotyping applications
+- [Parentage Verification](../pigeon-genetics/parentage-verification.md) — CE-based parentage analysis
+- [Laboratory Workflow](../quality-control/lab-workflow.md) — End-to-end sample processing pipeline
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — CE method performance data
 
 ---
 
@@ -200,4 +200,4 @@ A: For the ABI 3500 (8 capillaries), a full 96-sample run takes approximately 45
 
 ---
 
-*This document describes SENO's capillary electrophoresis methodology and applications. For CE protocol SOPs, refer to the [Quality Control section](/quality-control/). For questions about fingerprinting applications, contact info@senobio.com.*
+*This document describes SENO's capillary electrophoresis methodology and applications. For CE protocol SOPs, refer to the [Quality Control section](../quality-control/index.md). For questions about fingerprinting applications, contact info@senobio.com.*

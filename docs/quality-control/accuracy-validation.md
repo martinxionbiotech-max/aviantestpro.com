@@ -12,7 +12,7 @@ canonical: https://aviantestpro.com/knowledge/quality-control/accuracy-validatio
 # Method Validation & Accuracy Assurance
 
 
-All testing methods at SENO undergo a **standardized validation process** before clinical use. The validation framework follows Clinical and Laboratory Standards Institute (CLSI) EP guidelines and meets the requirements of our [ISO 9001:2015](/regulatory/iso-9001/) and [ISO 13485:2016](/regulatory/iso-13485/) certified quality management systems.
+All testing methods at SENO undergo a **standardized validation process** before clinical use. The validation framework follows Clinical and Laboratory Standards Institute (CLSI) EP guidelines and meets the requirements of our [ISO 9001:2015](../regulatory/iso-9001.md) and [ISO 13485:2016](../regulatory/iso-13485.md) certified quality management systems.
 
 ---
 
@@ -140,13 +140,13 @@ A full or partial re-validation is triggered under the following circumstances:
 
 ## Cross-References
 
-- [PBFD qPCR Validation Report](/quality-control/pbfd-qpcr-validation/) — Full CLSI EP validation data for the BFDV qPCR assay
-- [Laboratory QC Protocols](/quality-control/laboratory-qc-protocols/) — Daily, per-batch, and periodic QC procedures
-- [Proficiency Testing](/quality-control/proficiency-testing/) — External and internal proficiency assessment
-- [PCR Troubleshooting](/quality-control/pcr-troubleshooting/) — Resolving amplification issues and ambiguous results
-- [DNA Extraction SOP](/quality-control/dna-extraction-sop/) — Pre-analytical quality control
-- [CHD PCR Protocol](/quality-control/chd-pcr-protocol/) — Sex determination assay specifications
-- [Glossary](/glossary/) — Key validation terminology
+- [PBFD qPCR Validation Report](../quality-control/pbfd-qpcr-validation.md) — Full CLSI EP validation data for the BFDV qPCR assay
+- [Laboratory QC Protocols](../quality-control/laboratory-qc-protocols.md) — Daily, per-batch, and periodic QC procedures
+- [Proficiency Testing](../quality-control/proficiency-testing.md) — External and internal proficiency assessment
+- [PCR Troubleshooting](../quality-control/pcr-troubleshooting.md) — Resolving amplification issues and ambiguous results
+- [DNA Extraction SOP](../quality-control/dna-extraction-sop.md) — Pre-analytical quality control
+- [CHD PCR Protocol](../quality-control/chd-pcr-protocol.md) — Sex determination assay specifications
+- [Glossary](../glossary/index.md) — Key validation terminology
 
 ---
 

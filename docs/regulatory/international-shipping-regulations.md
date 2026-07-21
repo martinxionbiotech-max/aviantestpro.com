@@ -137,9 +137,9 @@ If a shipment encounters an issue during customs clearance, contact SENO immedia
 
 ## Related Documents
 
-- [Shipping FAQ](/faq/shipping-faq/) — Frequently asked questions about international shipping
-- [Sample FAQ](/faq/sample-faq/) — Sample types, collection guidance, and quality requirements
-- [Feather Collection Guide](/sample-guide/feather-collection/) — Proper feather collection protocol
-- [Swab Collection Guide](/sample-guide/swab-collection/) — Oral and cloacal swab collection
-- [Blood Sample Protocol](/sample-guide/blood-sample-protocol/) — Blood collection and FTA card preparation
-- [Sample Storage Guide](/sample-guide/sample-storage-and-stability/) — Pre-shipping storage conditions
+- [Shipping FAQ](../faq/shipping-faq.md) — Frequently asked questions about international shipping
+- [Sample FAQ](../faq/sample-faq.md) — Sample types, collection guidance, and quality requirements
+- [Feather Collection Guide](../sample-guide/feather-collection.md) — Proper feather collection protocol
+- [Swab Collection Guide](../sample-guide/swab-collection.md) — Oral and cloacal swab collection
+- [Blood Sample Protocol](../sample-guide/blood-sample-protocol.md) — Blood collection and FTA card preparation
+- [Sample Storage Guide](../sample-guide/sample-storage-and-stability.md) — Pre-shipping storage conditions

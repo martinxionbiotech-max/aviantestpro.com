@@ -102,10 +102,10 @@ PT participation and results are reviewed during:
 
 ## Cross-References
 
-- [Accuracy Validation](/quality-control/accuracy-validation/) — Method validation framework and ongoing accuracy monitoring
-- [Laboratory QC Protocols](/quality-control/laboratory-qc-protocols/) — Per-batch, daily, and periodic QC procedures
-- [ISO 9001:2015](/regulatory/iso-9001/) — Quality management system certification
-- [ISO 13485:2016](/regulatory/iso-13485/) — Medical devices quality management certification
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — Method validation framework and ongoing accuracy monitoring
+- [Laboratory QC Protocols](../quality-control/laboratory-qc-protocols.md) — Per-batch, daily, and periodic QC procedures
+- [ISO 9001:2015](../regulatory/iso-9001.md) — Quality management system certification
+- [ISO 13485:2016](../regulatory/iso-13485.md) — Medical devices quality management certification
 
 ---
 

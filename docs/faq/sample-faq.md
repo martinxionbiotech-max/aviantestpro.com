@@ -181,9 +181,9 @@ Yes. Combining samples from multiple birds in one shipment is standard practice 
 
 ## Related Documents
 
-- [Feather Collection Guide](/sample-guide/feather-collection/) — Detailed feather collection protocol with images
-- [Swab Collection Guide](/sample-guide/swab-collection/) — Oral and cloacal swab collection procedure
-- [Blood Sample Protocol](/sample-guide/blood-sample-protocol/) — Blood collection and FTA card preparation
-- [Sample Storage and Stability](/sample-guide/sample-storage-and-stability/) — Comprehensive storage guidelines
-- [Shipping FAQ](/faq/shipping-faq/) — International shipping procedures
-- [International Shipping Regulations](/regulatory/international-shipping-regulations/) — Regulatory compliance
+- [Feather Collection Guide](../sample-guide/feather-collection.md) — Detailed feather collection protocol with images
+- [Swab Collection Guide](../sample-guide/swab-collection.md) — Oral and cloacal swab collection procedure
+- [Blood Sample Protocol](../sample-guide/blood-sample-protocol.md) — Blood collection and FTA card preparation
+- [Sample Storage and Stability](../sample-guide/sample-storage-and-stability.md) — Comprehensive storage guidelines
+- [Shipping FAQ](../faq/shipping-faq.md) — International shipping procedures
+- [International Shipping Regulations](../regulatory/international-shipping-regulations.md) — Regulatory compliance

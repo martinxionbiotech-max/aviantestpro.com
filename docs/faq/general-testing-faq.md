@@ -169,8 +169,8 @@ SENO R&D will assess feasibility and provide a timeline and quotation for test d
 
 ## Related Documents
 
-- [Sample FAQ](/faq/sample-faq/) — Sample types, collection guidance, quality requirements
-- [Shipping FAQ](/faq/shipping-faq/) — International shipping procedures, customs, timing
-- [B2B Procurement FAQ](/faq/b2b-procurement-faq/) — Pricing, MOQ, payment terms, partnerships
-- [Accuracy Validation](/quality-control/accuracy-validation/) — Method validation and accuracy data
-- [PCR Sexing Method](/gender-testing/pcr-sexing-method/) — Technical basis for CHD-based sexing
+- [Sample FAQ](../faq/sample-faq.md) — Sample types, collection guidance, quality requirements
+- [Shipping FAQ](../faq/shipping-faq.md) — International shipping procedures, customs, timing
+- [B2B Procurement FAQ](../faq/b2b-procurement-faq.md) — Pricing, MOQ, payment terms, partnerships
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — Method validation and accuracy data
+- [PCR Sexing Method](../gender-testing/pcr-sexing-method.md) — Technical basis for CHD-based sexing

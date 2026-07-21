@@ -93,10 +93,10 @@ SENO's regulatory compliance framework is not static. The quality management sys
 
 ## Related Documents
 
-- [Laboratory QC Protocols](/quality-control/laboratory-qc-protocols/) — Detailed per-batch and periodic QC procedures
-- [Proficiency Testing](/quality-control/proficiency-testing/) — External inter-laboratory comparison program
-- [Accuracy Validation](/quality-control/accuracy-validation/) — Method validation and accuracy data
-- [Sample Guide](/sample-guide/) — Sample collection, storage, and shipping protocols
+- [Laboratory QC Protocols](../quality-control/laboratory-qc-protocols.md) — Detailed per-batch and periodic QC procedures
+- [Proficiency Testing](../quality-control/proficiency-testing.md) — External inter-laboratory comparison program
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — Method validation and accuracy data
+- [Sample Guide](../sample-guide/index.md) — Sample collection, storage, and shipping protocols
 
 ## Regulatory Change Management
 

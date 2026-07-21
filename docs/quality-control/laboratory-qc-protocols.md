@@ -147,10 +147,10 @@ Results are released only when all of the following conditions are met:
 
 ## Related Documents
 
-- [DNA Extraction SOP](/quality-control/dna-extraction-sop/) — Standard operating procedure for DNA extraction
-- [CHD PCR Protocol](/quality-control/chd-pcr-protocol/) — Detailed protocol for CHD gene-based sexing
-- [PBFD qPCR Validation](/quality-control/pbfd-qpcr-validation/) — Validation data for PBFD qPCR assay
-- [PCR Troubleshooting](/quality-control/pcr-troubleshooting/) — Common PCR issues and solutions
-- [Proficiency Testing](/quality-control/proficiency-testing/) — External inter-laboratory comparison program
-- [Accuracy Validation](/quality-control/accuracy-validation/) — Method validation and accuracy data
-- [Lab Workflow](/quality-control/lab-workflow/) — End-to-end sample processing workflow
+- [DNA Extraction SOP](../quality-control/dna-extraction-sop.md) — Standard operating procedure for DNA extraction
+- [CHD PCR Protocol](../quality-control/chd-pcr-protocol.md) — Detailed protocol for CHD gene-based sexing
+- [PBFD qPCR Validation](../quality-control/pbfd-qpcr-validation.md) — Validation data for PBFD qPCR assay
+- [PCR Troubleshooting](../quality-control/pcr-troubleshooting.md) — Common PCR issues and solutions
+- [Proficiency Testing](../quality-control/proficiency-testing.md) — External inter-laboratory comparison program
+- [Accuracy Validation](../quality-control/accuracy-validation.md) — Method validation and accuracy data
+- [Lab Workflow](../quality-control/lab-workflow.md) — End-to-end sample processing workflow

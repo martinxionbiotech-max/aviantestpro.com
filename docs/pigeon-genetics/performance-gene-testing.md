@@ -135,11 +135,11 @@ The test identifies specific genetic variants (polymorphisms) within each gene. 
 
 ## Cross-References
 
-- [Performance Gene Validation](/pigeon-genetics/performance-gene-validation/) — Technical validation data, population statistics, allele frequency distributions
-- [Pigeon Disease Panel](/disease-testing/pigeon-disease-panel/) — Health screening complements genetic potential
-- [DNA Extraction SOP](/quality-control/dna-extraction-sop/) — Sample processing protocol
-- [International Shipping Guide](/sample-guide/international-shipping/) — Submitting samples from abroad
-- [Glossary](/glossary/) — Key genetics terms (allele, genotype, polymorphism)
+- [Performance Gene Validation](../pigeon-genetics/performance-gene-validation.md) — Technical validation data, population statistics, allele frequency distributions
+- [Pigeon Disease Panel](../disease-testing/pigeon-disease-panel.md) — Health screening complements genetic potential
+- [DNA Extraction SOP](../quality-control/dna-extraction-sop.md) — Sample processing protocol
+- [International Shipping Guide](../sample-guide/international-shipping.md) — Submitting samples from abroad
+- [Glossary](../glossary/index.md) — Key genetics terms (allele, genotype, polymorphism)
 
 ---
 

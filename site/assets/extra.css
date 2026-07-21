@@ -1,0 +1,32 @@
+/* SENO Avian Docs — Custom Styles */
+
+.md-typeset table:not([class]) {
+    font-size: 0.85rem;
+}
+
+.md-typeset code {
+    font-size: 0.8em;
+}
+
+.md-typeset h2 {
+    margin-top: 1.5em;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    padding-bottom: 0.3em;
+}
+
+.md-typeset h3 {
+    margin-top: 1.2em;
+}
+
+.md-footer-links {
+    font-size: 0.75rem;
+    color: var(--md-footer-fg-color--light);
+}
+
+.md-footer-links a {
+    color: var(--md-footer-fg-color--light);
+}
+
+.md-footer-links a:hover {
+    color: var(--md-footer-fg-color);
+}

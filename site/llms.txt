@@ -1,0 +1,140 @@
+# SENO Avian Genetic Test — Technical Documentation Center
+> Official SENO Testing Center technical documentation for avian DNA sexing, PCR disease diagnostics, racing pigeon genetics, sample collection protocols, and laboratory quality systems
+> Operated by Zhangjiakou SENO Testing Center Co., Ltd.
+> Last Updated: August 2026
+
+## Organization
+- **Name:** Zhangjiakou SENO Testing Center Co., Ltd.
+- **Brand:** SENO International Avian Genetic Test
+- **Website:** https://aviantestpro.com
+- **Documentation:** https://docs.aviantestpro.com
+- **Email:** lab@aviantestpro.com
+
+## Description
+Complete technical documentation for avian genetic testing services covering DNA gender determination (CHD-W/CHD-Z PCR), avian disease diagnostics (PBFD/BFDV qPCR, APV, avian influenza, 11-pathogen pigeon panel), racing pigeon genetics (DRD4/LDHA/CK/MB performance markers, 12-locus microsatellite fingerprinting), sample collection protocols (feather, blood, swab, FTA card), international shipping procedures, laboratory QC/SOPs, ISO 9001:2015 and ISO 13485:2016 quality systems, and species-specific testing guides for psittacines, columbiformes, and passerines.
+
+## Documentation Structure
+
+### Core Navigation
+- Home / Index: https://docs.aviantestpro.com/
+- Full Document Index: https://docs.aviantestpro.com/INDEX/
+- About the Laboratory: https://docs.aviantestpro.com/about/
+- Technical Glossary: https://docs.aviantestpro.com/glossary/
+- Comprehensive FAQ (FAQPage Schema): https://docs.aviantestpro.com/faq/FAQ/
+- Application Records / Case Studies: https://docs.aviantestpro.com/case-studies/
+
+### About the Laboratory (5 documents)
+- Facility Overview: https://docs.aviantestpro.com/about/facility-overview/
+- Team and Expertise: https://docs.aviantestpro.com/about/team-and-expertise/
+- Certifications: https://docs.aviantestpro.com/about/certifications/
+- Intellectual Property: https://docs.aviantestpro.com/about/intellectual-property/
+
+### DNA Gender Testing (5 documents)
+- Gender Testing Overview: https://docs.aviantestpro.com/gender-testing/
+- PCR Sexing Method: https://docs.aviantestpro.com/gender-testing/pcr-sexing-method/
+- Parrot DNA Sexing: https://docs.aviantestpro.com/gender-testing/parrot-dna-sexing/
+- Pigeon DNA Sexing: https://docs.aviantestpro.com/gender-testing/pigeon-dna-sexing/
+- Species Compatibility: https://docs.aviantestpro.com/gender-testing/species-compatibility/
+
+### Avian Disease Testing (5 documents)
+- Disease Testing Overview: https://docs.aviantestpro.com/disease-testing/
+- PBFD (BFDV) qPCR: https://docs.aviantestpro.com/disease-testing/pbfd/
+- Avian Polyomavirus (APV): https://docs.aviantestpro.com/disease-testing/avian-polyomavirus/
+- Pigeon Disease Panel (11 pathogens): https://docs.aviantestpro.com/disease-testing/pigeon-disease-panel/
+- Avian Influenza Surveillance (H5/H7/H9): https://docs.aviantestpro.com/disease-testing/avian-influenza-surveillance/
+
+### Racing Pigeon Genetics (5 documents)
+- Pigeon Genetics Overview: https://docs.aviantestpro.com/pigeon-genetics/
+- Performance Gene Testing (DRD4, LDHA, CK, MB): https://docs.aviantestpro.com/pigeon-genetics/performance-gene-testing/
+- Performance Gene Validation: https://docs.aviantestpro.com/pigeon-genetics/performance-gene-validation/
+- DNA Fingerprinting (12-locus microsatellite): https://docs.aviantestpro.com/pigeon-genetics/dna-fingerprinting/
+- Parentage Verification: https://docs.aviantestpro.com/pigeon-genetics/parentage-verification/
+
+### Sample Collection & Shipping (7 documents)
+- Sample Guide Overview: https://docs.aviantestpro.com/sample-guide/
+- Feather Collection Protocol: https://docs.aviantestpro.com/sample-guide/feather-collection/
+- Blood Sample Protocol: https://docs.aviantestpro.com/sample-guide/blood-sample-protocol/
+- Swab Collection Protocol: https://docs.aviantestpro.com/sample-guide/swab-collection/
+- International Shipping Guide: https://docs.aviantestpro.com/sample-guide/international-shipping/
+- Sample Storage and Stability: https://docs.aviantestpro.com/sample-guide/sample-storage-and-stability/
+- Quick Reference Card: https://docs.aviantestpro.com/sample-guide/quick-reference-card/
+
+### Testing Methods & Technology (5 documents)
+- Testing Methods Overview: https://docs.aviantestpro.com/testing-methods/
+- PCR Technology: https://docs.aviantestpro.com/testing-methods/pcr-technology/
+- qPCR Fluorescent Detection: https://docs.aviantestpro.com/testing-methods/qPCR-fluorescent/
+- Capillary Electrophoresis: https://docs.aviantestpro.com/testing-methods/capillary-electrophoresis/
+- Reagent Development: https://docs.aviantestpro.com/testing-methods/reagent-development/
+
+### Quality Control & SOPs (9 documents)
+- QC Overview: https://docs.aviantestpro.com/quality-control/
+- Laboratory QC Protocols: https://docs.aviantestpro.com/quality-control/laboratory-qc-protocols/
+- DNA Extraction SOP: https://docs.aviantestpro.com/quality-control/dna-extraction-sop/
+- CHD PCR Protocol: https://docs.aviantestpro.com/quality-control/chd-pcr-protocol/
+- PBFD qPCR Validation: https://docs.aviantestpro.com/quality-control/pbfd-qpcr-validation/
+- PCR Troubleshooting Guide: https://docs.aviantestpro.com/quality-control/pcr-troubleshooting/
+- Lab Workflow: https://docs.aviantestpro.com/quality-control/lab-workflow/
+- Proficiency Testing: https://docs.aviantestpro.com/quality-control/proficiency-testing/
+- Accuracy Validation: https://docs.aviantestpro.com/quality-control/accuracy-validation/
+
+### Regulatory & Compliance (4 documents)
+- Regulatory Overview: https://docs.aviantestpro.com/regulatory/
+- ISO 9001:2015 Quality Management: https://docs.aviantestpro.com/regulatory/iso-9001/
+- ISO 13485:2016 Medical Devices QMS: https://docs.aviantestpro.com/regulatory/iso-13485/
+- International Shipping Regulations: https://docs.aviantestpro.com/regulatory/international-shipping-regulations/
+
+### Species Guides (4 documents)
+- Species Guides Overview: https://docs.aviantestpro.com/species-guides/
+- Psittacines (Parrots): https://docs.aviantestpro.com/species-guides/psittacines-parrots/
+- Columbiformes (Pigeons): https://docs.aviantestpro.com/species-guides/columbiformes-pigeons/
+- Passerines (Canaries, Finches): https://docs.aviantestpro.com/species-guides/passerines-canaries-finches/
+
+### FAQ & Business (6 documents)
+- FAQ Overview: https://docs.aviantestpro.com/faq/
+- Comprehensive FAQ: https://docs.aviantestpro.com/faq/FAQ/
+- General Testing FAQ: https://docs.aviantestpro.com/faq/general-testing-faq/
+- Sample FAQ: https://docs.aviantestpro.com/faq/sample-faq/
+- Shipping FAQ: https://docs.aviantestpro.com/faq/shipping-faq/
+- B2B Procurement FAQ: https://docs.aviantestpro.com/faq/b2b-procurement-faq/
+
+## Key Facts
+
+### DNA Sexing (CHD-W/CHD-Z PCR)
+- Principle: Females are ZW (heterogametic), males are ZZ (homogametic)
+- Detection: PCR amplification of CHD-W (female-specific) and CHD-Z (both sexes)
+- Primer sets: P2/P8 or 2550F/2718R — conserved across 250+ avian species
+- Accuracy: ≥99% validated
+- Turnaround: 1–2 working days
+- Fragment analysis: Capillary electrophoresis preferred over gel
+
+### Disease Testing
+- PBFD qPCR: LOD 10 copies/rxn, 95.9% sensitivity, 98.0% specificity
+- APV (avian polyomavirus): PCR detection from feather/blood/swab
+- Pigeon Panel: 11 pathogens (PiCV, PiHV, PiADV, Chlamydia, Salmonella, Candida, E. coli, Pseudomonas, Staphylococcus, PPMV-1, PBFD)
+- AIV: H5/H7/H9 RT-PCR multiplex
+
+### Racing Pigeon Genetics
+- Performance markers: DRD4 (behavior/homing), LDHA (endurance), CK (sprint), MB (stamina)
+- Results: Gold/Silver/Bronze classification
+- DNA fingerprinting: 12-locus STR, >99.99% discrimination power
+- Monthly volume: 600+ performance gene tests, 500+ virus PCR tests
+
+### Laboratory
+- Location: Zhangjiakou, Hebei, China
+- Facility: 3,000 m²
+- Certifications: ISO 9001:2015, ISO 13485:2016, National High-Tech Enterprise
+- International shipping to 20+ countries
+- English reports for all international clients
+
+### Quality Metrics
+- DNA sexing accuracy: ≥99%
+- PBFD analytical sensitivity: 95.9%
+- PBFD analytical specificity: 98.0%
+- Fingerprinting match probability: <1 in 2.5×10¹⁵ (12 loci)
+- Retesting policy: Free retest on disputed results
+
+## Keywords
+avian DNA testing, bird DNA sexing, parrot sexing, pigeon sexing, CHD gene, CHD-W CHD-Z, PBFD testing, beak feather disease, BFDV qPCR, avian polyomavirus, APV, pigeon disease panel, avian influenza H5 H7 H9, racing pigeon genetics, pigeon performance genes, DRD4, pigeon DNA fingerprinting, microsatellite STR, parentage verification, avian diagnostic laboratory, bird lab China, SENO testing, avian genetic test, PCR bird sexing, bird disease testing, feather DNA, bird DNA extraction, sample collection birds, CITES biological samples, ISO 9001 avian lab, ISO 13485 veterinary, psittacine testing, columbiformes, passerines, racing pigeon breeding, pigeon loft management
+
+## Content Type
+Veterinary Technical Documentation / Laboratory SOP / Genetic Testing Protocols / Quality Management System / B2B Service Documentation
