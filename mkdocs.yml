@@ -17,8 +17,6 @@ theme:
     - navigation.top
     - navigation.footer
     - navigation.indexes
-    - search.suggest
-    - search.highlight
     - content.code.copy
     - toc.follow
   palette:
@@ -61,8 +59,6 @@ markdown_extensions:
       toc_depth: 2-4
 
 plugins:
-  - search:
-      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)'
   - glightbox
   - minify:
       minify_html: true
@@ -143,7 +139,7 @@ nav:
     - case-studies/index.md
     - case-studies/application-records.md
   - Glossary: glossary/index.md
-  - Document Index: INDEX.md
+  - Document Index: document-index.md
 
 copyright: >
   © 2026 Zhangjiakou SENO Testing Center Co., Ltd.
