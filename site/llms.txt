@@ -87,6 +87,7 @@ Complete technical documentation for avian genetic testing services covering DNA
 - [Species Guides Overview](https://data.aviantestpro.com/species-guides/)
 - [Psittacines (Parrots)](https://data.aviantestpro.com/species-guides/psittacines-parrots/)
 - [African Grey Parrot DNA Testing](https://data.aviantestpro.com/species-guides/african-grey-parrot-dna-testing/)
+- [Cockatiel & Budgerigar DNA Testing](https://data.aviantestpro.com/species-guides/cockatiel-budgerigar-dna-testing/)
 - [Columbiformes (Pigeons)](https://data.aviantestpro.com/species-guides/columbiformes-pigeons/)
 - [Passerines (Canaries, Finches)](https://data.aviantestpro.com/species-guides/passerines-canaries-finches/)
 

@@ -30,6 +30,7 @@ SENO's species guides consolidate decades of laboratory experience into practica
 | Document | Species | Focus |
 |:---------|:--------|:------|
 | [African Grey Parrot DNA Testing](african-grey-parrot-dna-testing.md) | Congo African Grey (*Psittacus erithacus*), Timneh African Grey (*Psittacus timneh*) | Sexing workflow, feather sampling, CHD marker adaptation, choosing a reliable laboratory |
+| [Cockatiel & Budgerigar DNA Testing](cockatiel-budgerigar-dna-testing.md) | Cockatiel (*Nymphicus hollandicus*), Budgerigar (*Melopsittacus undulatus*) | Visual sexing limits (plumage, cere colour, mutations), juvenile testing, feather sampling |
 
 ## Species Compatibility
 
