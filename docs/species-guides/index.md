@@ -25,6 +25,12 @@ SENO's species guides consolidate decades of laboratory experience into practica
 | [Columbiformes (Pigeons & Doves)](columbiformes-pigeons.md) | Racing Homer, Fancy breeds, Wood pigeon, Ring-neck dove | Racing performance genetics; 11-pathogen panel |
 | [Passerines (Canaries, Finches & Songbirds)](passerines-canaries-finches.md) | Canary (Red Factor, Yellow, White), Zebra Finch, Gouldian Finch, Bengalese Finch | Small sample size; lower DNA yield per feather |
 
+## Species Deep Dives
+
+| Document | Species | Focus |
+|:---------|:--------|:------|
+| [African Grey Parrot DNA Testing](african-grey-parrot-dna-testing.md) | Congo African Grey (*Psittacus erithacus*), Timneh African Grey (*Psittacus timneh*) | Sexing workflow, feather sampling, CHD marker adaptation, choosing a reliable laboratory |
+
 ## Species Compatibility
 
 For a complete list of validated species and primer set compatibility, see the [Species Compatibility Matrix](../gender-testing/species-compatibility.md).

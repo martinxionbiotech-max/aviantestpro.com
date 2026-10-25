@@ -5,7 +5,7 @@ site_description: >
   racing pigeon genetic testing, laboratory SOPs, sample collection guides,
   and regulatory compliance references for bird breeders and veterinary professionals.
 site_author: Zhangjiakou SENO Testing Center Co., Ltd.
-site_url: https://docs.aviantestpro.com
+site_url: https://data.aviantestpro.com
 
 theme:
   name: material
@@ -126,6 +126,7 @@ nav:
   - Species Guides:
     - species-guides/index.md
     - species-guides/psittacines-parrots.md
+    - species-guides/african-grey-parrot-dna-testing.md
     - species-guides/columbiformes-pigeons.md
     - species-guides/passerines-canaries-finches.md
   - FAQ & Business:

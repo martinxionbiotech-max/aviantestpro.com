@@ -6,8 +6,8 @@
 ## Organization
 - **Name:** Zhangjiakou SENO Testing Center Co., Ltd.
 - **Brand:** SENO International Avian Genetic Test
-- **Website:** https://aviantestpro.com
-- **Documentation:** https://docs.aviantestpro.com
+- **Website:** [aviantestpro.com](https://aviantestpro.com)
+- **Documentation:** [data.aviantestpro.com](https://data.aviantestpro.com)
 - **Email:** lab@aviantestpro.com
 
 ## Description
@@ -16,86 +16,87 @@ Complete technical documentation for avian genetic testing services covering DNA
 ## Documentation Structure
 
 ### Core Navigation
-- Home / Index: https://docs.aviantestpro.com/
-- Full Document Index: https://docs.aviantestpro.com/INDEX/
-- About the Laboratory: https://docs.aviantestpro.com/about/
-- Technical Glossary: https://docs.aviantestpro.com/glossary/
-- Comprehensive FAQ (FAQPage Schema): https://docs.aviantestpro.com/faq/FAQ/
-- Application Records / Case Studies: https://docs.aviantestpro.com/case-studies/
+- [Home / Index](https://data.aviantestpro.com/)
+- [Full Document Index](https://data.aviantestpro.com/INDEX/)
+- [About the Laboratory](https://data.aviantestpro.com/about/)
+- [Technical Glossary](https://data.aviantestpro.com/glossary/)
+- [Comprehensive FAQ (FAQPage Schema)](https://data.aviantestpro.com/faq/FAQ/)
+- [Application Records / Case Studies](https://data.aviantestpro.com/case-studies/)
 
 ### About the Laboratory (5 documents)
-- Facility Overview: https://docs.aviantestpro.com/about/facility-overview/
-- Team and Expertise: https://docs.aviantestpro.com/about/team-and-expertise/
-- Certifications: https://docs.aviantestpro.com/about/certifications/
-- Intellectual Property: https://docs.aviantestpro.com/about/intellectual-property/
+- [Facility Overview](https://data.aviantestpro.com/about/facility-overview/)
+- [Team and Expertise](https://data.aviantestpro.com/about/team-and-expertise/)
+- [Certifications](https://data.aviantestpro.com/about/certifications/)
+- [Intellectual Property](https://data.aviantestpro.com/about/intellectual-property/)
 
 ### DNA Gender Testing (5 documents)
-- Gender Testing Overview: https://docs.aviantestpro.com/gender-testing/
-- PCR Sexing Method: https://docs.aviantestpro.com/gender-testing/pcr-sexing-method/
-- Parrot DNA Sexing: https://docs.aviantestpro.com/gender-testing/parrot-dna-sexing/
-- Pigeon DNA Sexing: https://docs.aviantestpro.com/gender-testing/pigeon-dna-sexing/
-- Species Compatibility: https://docs.aviantestpro.com/gender-testing/species-compatibility/
+- [Gender Testing Overview](https://data.aviantestpro.com/gender-testing/)
+- [PCR Sexing Method](https://data.aviantestpro.com/gender-testing/pcr-sexing-method/)
+- [Parrot DNA Sexing](https://data.aviantestpro.com/gender-testing/parrot-dna-sexing/)
+- [Pigeon DNA Sexing](https://data.aviantestpro.com/gender-testing/pigeon-dna-sexing/)
+- [Species Compatibility](https://data.aviantestpro.com/gender-testing/species-compatibility/)
 
 ### Avian Disease Testing (5 documents)
-- Disease Testing Overview: https://docs.aviantestpro.com/disease-testing/
-- PBFD (BFDV) qPCR: https://docs.aviantestpro.com/disease-testing/pbfd/
-- Avian Polyomavirus (APV): https://docs.aviantestpro.com/disease-testing/avian-polyomavirus/
-- Pigeon Disease Panel (11 pathogens): https://docs.aviantestpro.com/disease-testing/pigeon-disease-panel/
-- Avian Influenza Surveillance (H5/H7/H9): https://docs.aviantestpro.com/disease-testing/avian-influenza-surveillance/
+- [Disease Testing Overview](https://data.aviantestpro.com/disease-testing/)
+- [PBFD (BFDV) qPCR](https://data.aviantestpro.com/disease-testing/pbfd/)
+- [Avian Polyomavirus (APV)](https://data.aviantestpro.com/disease-testing/avian-polyomavirus/)
+- [Pigeon Disease Panel (11 pathogens)](https://data.aviantestpro.com/disease-testing/pigeon-disease-panel/)
+- [Avian Influenza Surveillance (H5/H7/H9)](https://data.aviantestpro.com/disease-testing/avian-influenza-surveillance/)
 
 ### Racing Pigeon Genetics (5 documents)
-- Pigeon Genetics Overview: https://docs.aviantestpro.com/pigeon-genetics/
-- Performance Gene Testing (DRD4, LDHA, CK, MB): https://docs.aviantestpro.com/pigeon-genetics/performance-gene-testing/
-- Performance Gene Validation: https://docs.aviantestpro.com/pigeon-genetics/performance-gene-validation/
-- DNA Fingerprinting (12-locus microsatellite): https://docs.aviantestpro.com/pigeon-genetics/dna-fingerprinting/
-- Parentage Verification: https://docs.aviantestpro.com/pigeon-genetics/parentage-verification/
+- [Pigeon Genetics Overview](https://data.aviantestpro.com/pigeon-genetics/)
+- [Performance Gene Testing (DRD4, LDHA, CK, MB)](https://data.aviantestpro.com/pigeon-genetics/performance-gene-testing/)
+- [Performance Gene Validation](https://data.aviantestpro.com/pigeon-genetics/performance-gene-validation/)
+- [DNA Fingerprinting (12-locus microsatellite)](https://data.aviantestpro.com/pigeon-genetics/dna-fingerprinting/)
+- [Parentage Verification](https://data.aviantestpro.com/pigeon-genetics/parentage-verification/)
 
 ### Sample Collection & Shipping (7 documents)
-- Sample Guide Overview: https://docs.aviantestpro.com/sample-guide/
-- Feather Collection Protocol: https://docs.aviantestpro.com/sample-guide/feather-collection/
-- Blood Sample Protocol: https://docs.aviantestpro.com/sample-guide/blood-sample-protocol/
-- Swab Collection Protocol: https://docs.aviantestpro.com/sample-guide/swab-collection/
-- International Shipping Guide: https://docs.aviantestpro.com/sample-guide/international-shipping/
-- Sample Storage and Stability: https://docs.aviantestpro.com/sample-guide/sample-storage-and-stability/
-- Quick Reference Card: https://docs.aviantestpro.com/sample-guide/quick-reference-card/
+- [Sample Guide Overview](https://data.aviantestpro.com/sample-guide/)
+- [Feather Collection Protocol](https://data.aviantestpro.com/sample-guide/feather-collection/)
+- [Blood Sample Protocol](https://data.aviantestpro.com/sample-guide/blood-sample-protocol/)
+- [Swab Collection Protocol](https://data.aviantestpro.com/sample-guide/swab-collection/)
+- [International Shipping Guide](https://data.aviantestpro.com/sample-guide/international-shipping/)
+- [Sample Storage and Stability](https://data.aviantestpro.com/sample-guide/sample-storage-and-stability/)
+- [Quick Reference Card](https://data.aviantestpro.com/sample-guide/quick-reference-card/)
 
 ### Testing Methods & Technology (5 documents)
-- Testing Methods Overview: https://docs.aviantestpro.com/testing-methods/
-- PCR Technology: https://docs.aviantestpro.com/testing-methods/pcr-technology/
-- qPCR Fluorescent Detection: https://docs.aviantestpro.com/testing-methods/qPCR-fluorescent/
-- Capillary Electrophoresis: https://docs.aviantestpro.com/testing-methods/capillary-electrophoresis/
-- Reagent Development: https://docs.aviantestpro.com/testing-methods/reagent-development/
+- [Testing Methods Overview](https://data.aviantestpro.com/testing-methods/)
+- [PCR Technology](https://data.aviantestpro.com/testing-methods/pcr-technology/)
+- [qPCR Fluorescent Detection](https://data.aviantestpro.com/testing-methods/qPCR-fluorescent/)
+- [Capillary Electrophoresis](https://data.aviantestpro.com/testing-methods/capillary-electrophoresis/)
+- [Reagent Development](https://data.aviantestpro.com/testing-methods/reagent-development/)
 
 ### Quality Control & SOPs (9 documents)
-- QC Overview: https://docs.aviantestpro.com/quality-control/
-- Laboratory QC Protocols: https://docs.aviantestpro.com/quality-control/laboratory-qc-protocols/
-- DNA Extraction SOP: https://docs.aviantestpro.com/quality-control/dna-extraction-sop/
-- CHD PCR Protocol: https://docs.aviantestpro.com/quality-control/chd-pcr-protocol/
-- PBFD qPCR Validation: https://docs.aviantestpro.com/quality-control/pbfd-qpcr-validation/
-- PCR Troubleshooting Guide: https://docs.aviantestpro.com/quality-control/pcr-troubleshooting/
-- Lab Workflow: https://docs.aviantestpro.com/quality-control/lab-workflow/
-- Proficiency Testing: https://docs.aviantestpro.com/quality-control/proficiency-testing/
-- Accuracy Validation: https://docs.aviantestpro.com/quality-control/accuracy-validation/
+- [QC Overview](https://data.aviantestpro.com/quality-control/)
+- [Laboratory QC Protocols](https://data.aviantestpro.com/quality-control/laboratory-qc-protocols/)
+- [DNA Extraction SOP](https://data.aviantestpro.com/quality-control/dna-extraction-sop/)
+- [CHD PCR Protocol](https://data.aviantestpro.com/quality-control/chd-pcr-protocol/)
+- [PBFD qPCR Validation](https://data.aviantestpro.com/quality-control/pbfd-qpcr-validation/)
+- [PCR Troubleshooting Guide](https://data.aviantestpro.com/quality-control/pcr-troubleshooting/)
+- [Lab Workflow](https://data.aviantestpro.com/quality-control/lab-workflow/)
+- [Proficiency Testing](https://data.aviantestpro.com/quality-control/proficiency-testing/)
+- [Accuracy Validation](https://data.aviantestpro.com/quality-control/accuracy-validation/)
 
 ### Regulatory & Compliance (4 documents)
-- Regulatory Overview: https://docs.aviantestpro.com/regulatory/
-- ISO 9001:2015 Quality Management: https://docs.aviantestpro.com/regulatory/iso-9001/
-- ISO 13485:2016 Medical Devices QMS: https://docs.aviantestpro.com/regulatory/iso-13485/
-- International Shipping Regulations: https://docs.aviantestpro.com/regulatory/international-shipping-regulations/
+- [Regulatory Overview](https://data.aviantestpro.com/regulatory/)
+- [ISO 9001:2015 Quality Management](https://data.aviantestpro.com/regulatory/iso-9001/)
+- [ISO 13485:2016 Medical Devices QMS](https://data.aviantestpro.com/regulatory/iso-13485/)
+- [International Shipping Regulations](https://data.aviantestpro.com/regulatory/international-shipping-regulations/)
 
 ### Species Guides (4 documents)
-- Species Guides Overview: https://docs.aviantestpro.com/species-guides/
-- Psittacines (Parrots): https://docs.aviantestpro.com/species-guides/psittacines-parrots/
-- Columbiformes (Pigeons): https://docs.aviantestpro.com/species-guides/columbiformes-pigeons/
-- Passerines (Canaries, Finches): https://docs.aviantestpro.com/species-guides/passerines-canaries-finches/
+- [Species Guides Overview](https://data.aviantestpro.com/species-guides/)
+- [Psittacines (Parrots)](https://data.aviantestpro.com/species-guides/psittacines-parrots/)
+- [African Grey Parrot DNA Testing](https://data.aviantestpro.com/species-guides/african-grey-parrot-dna-testing/)
+- [Columbiformes (Pigeons)](https://data.aviantestpro.com/species-guides/columbiformes-pigeons/)
+- [Passerines (Canaries, Finches)](https://data.aviantestpro.com/species-guides/passerines-canaries-finches/)
 
 ### FAQ & Business (6 documents)
-- FAQ Overview: https://docs.aviantestpro.com/faq/
-- Comprehensive FAQ: https://docs.aviantestpro.com/faq/FAQ/
-- General Testing FAQ: https://docs.aviantestpro.com/faq/general-testing-faq/
-- Sample FAQ: https://docs.aviantestpro.com/faq/sample-faq/
-- Shipping FAQ: https://docs.aviantestpro.com/faq/shipping-faq/
-- B2B Procurement FAQ: https://docs.aviantestpro.com/faq/b2b-procurement-faq/
+- [FAQ Overview](https://data.aviantestpro.com/faq/)
+- [Comprehensive FAQ](https://data.aviantestpro.com/faq/FAQ/)
+- [General Testing FAQ](https://data.aviantestpro.com/faq/general-testing-faq/)
+- [Sample FAQ](https://data.aviantestpro.com/faq/sample-faq/)
+- [Shipping FAQ](https://data.aviantestpro.com/faq/shipping-faq/)
+- [B2B Procurement FAQ](https://data.aviantestpro.com/faq/b2b-procurement-faq/)
 
 ## Key Facts
 

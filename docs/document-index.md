@@ -89,6 +89,7 @@
 | 38 | [Psittacines (Parrots)](species-guides/psittacines-parrots.md) | 250+ species, BFDV risk, CHD variation | Guide |
 | 39 | [Columbiformes (Pigeons)](species-guides/columbiformes-pigeons.md) | Racing pigeon seasonal schedule, disease panel | Guide |
 | 40 | [Passerines (Canaries/Finches)](species-guides/passerines-canaries-finches.md) | Small sample protocol, lower yield expectation | Guide |
+| 41 | [African Grey Parrot DNA Testing](species-guides/african-grey-parrot-dna-testing.md) | Congo & Timneh sexing, feather samples, CHD marker adaptation | Guide |
 
 ## FAQ & Business
 
