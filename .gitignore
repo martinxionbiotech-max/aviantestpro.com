@@ -9,3 +9,9 @@ __pycache__/
 *~
 .DS_Store
 .venv-mkdocs/
+
+# md-negotiation
+node_modules/
+.wrangler/
+site/**/*.md
+site/_md/

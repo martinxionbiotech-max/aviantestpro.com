@@ -1,5 +1,5 @@
 {
-  "build_command": "pip install -r requirements.txt && mkdocs build && echo '/  /index.html  200' > site/_redirects && echo '/*  /index.html  200' >> site/_redirects",
+  "build_command": "pip install -r requirements.txt && mkdocs build && python3 scripts/generate-md.py && echo '/  /index.html  200' > site/_redirects && echo '/*  /index.html  200' >> site/_redirects",
   "build_output_dir": "site",
   "root_dir": "/"
 }

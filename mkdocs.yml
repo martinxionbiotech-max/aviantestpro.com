@@ -68,6 +68,9 @@ plugins:
         remove_comments: true
         remove_empty_space: true
 
+hooks:
+  - hook.py
+
 nav:
   - Home: index.md
   - About the Laboratory:
